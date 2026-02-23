@@ -66,10 +66,10 @@ The circuit behaves as a differentiator.
 4.	What happens at very high frequency?
 5.	What is practical differentiator?
 
-## Answer
-1.  A differentiator is an op-amp circuit that produces an output voltage proportional to the rate of change of the input voltage.
-2.  Vout = -RC(dVin/dt)
-3.  Because differentiation of a sine wave produces a cosine wave, resulting in a 90° phase lead. Hence, output leads input.
-4.  At very high frequency, gain increases and the circuit amplifies noise, causing instability.
-5.  A practical differentiator includes additional resistor and capacitor components to limit high-frequency gain and improve stability.
+## Answers
+1.  A differentiator is an op-amp circuit that produces an output voltage proportional to the rate of change of the input voltage.<br>
+2.  Vout = -RC(dVin/dt)<br>
+3.  Because differentiation of a sine wave produces a cosine wave, resulting in a 90° phase lead. Hence, output leads input.<br>
+4.  At very high frequency, gain increases and the circuit amplifies noise, causing instability.<br>
+5.  A practical differentiator includes additional resistor and capacitor components to limit high-frequency gain and improve stability.<br>
 
