@@ -65,7 +65,6 @@ The circuit behaves as a differentiator.
 3.	Why is output leading input?
 4.	What happens at very high frequency?
 5.	What is practical differentiator?
-
 ## Answers
 1.  A differentiator is an op-amp circuit that produces an output voltage proportional to the rate of change of the input voltage.<br>
 2.  Vout = -RC(dVin/dt)<br>
